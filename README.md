@@ -1,6 +1,6 @@
-# Субмодуль питания на базе ATTiny85
+# ATTiny85 based power supply submodule
 
-Разработка аккумуляторного субмодуля питания, предназначенного для обеспечения автономной работы мобильных роботов (МР) с модульной архитектурой, автоматизированных и/или автоматических устройств и др. оборудования в качестве источника постоянного или резервного бесперебойного питания.
+Development of a battery-powered submodule designed to provide autonomous operation of mobile robots (MP) with modular architecture, automated and/or automated devices and other equipment as a permanent or redundant uninterruptible power supply.
 
-Функциональная схема:
+Functional diagram:
 <img src="./fun_scheme.png">
